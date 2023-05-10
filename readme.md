@@ -28,3 +28,6 @@ Example:
     <li><a href="recipes/yourrecipe.html">Recipe Title 3</a></li>
   </ul>
 Your links won’t be flashy, but for now just focus on building them out.
+
+Work on commit message
+Update site with CSS styles
